@@ -1,0 +1,5 @@
+com\taj\user_service\repo\UserRepo.class
+com\taj\user_service\UserServiceApplication.class
+com\taj\user_service\service\UserService.class
+com\taj\user_service\modal\User.class
+com\taj\user_service\controller\UserController.class
